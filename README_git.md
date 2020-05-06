@@ -10,7 +10,5 @@ React Hooks is a latest React feature available from React 16.8 which implements
 Earlier this was only possible through Class based components.
 
 It also uses Firebase's backend database to implement get and post request.
-
 This repo contains build version which is already deployed and hosted on Firebase.
-
 To access the hosted site: https://react-my-burger-911.web.app/
