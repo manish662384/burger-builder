@@ -1,5 +1,5 @@
-This is Burger Builder App using React and it's third party libraries for example Redux and React-Router. It is a Single Page App built using React's 
-class based components. 
+This is Burger Builder App using React and it's third party libraries for example Redux and React-Router.
+It is a Single Page App built using React's class based components.
 This project is a practice app provided by the tutorial at Udemy by Maximilian Schwarzmuller.
 It uses all the front-end application concepts such authentication, form validation, routing, webpack, some advanced CSS features and it's libraries, testing, 
 animations, Redux Saga and the latest React Hooks.
