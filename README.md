@@ -1,6 +1,6 @@
 This is a personal project named 'Burger Builder App' which is  built using React and some third party libraries for example Redux and React-Router.
 
-It is a Single Page App built using React's class based components.
+It is a Single Page App built using React's class based components. It is 100% responsive and can be viewed on all devices such as tab/mobile.
 
 With this app a user can place an order for a burger. User can build a burger by adding ingredients they want with their price, like salad and meat. 
 Then they will be proceeded to checkout page where they can view the burger on a Modal. Then they can fill their personal information on a form having
